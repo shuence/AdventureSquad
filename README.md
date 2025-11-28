@@ -1,5 +1,5 @@
 
-# AdventureSQUAD ✌️
+# TravelSquad ✌️
 
 LOOKING FOR ADVENTURE?
 You've Come At The Right Place !
@@ -24,7 +24,7 @@ Please adhere to this project's `code of conduct`.
 
 Insert gif or link to demo
 
-![Live Demo](https://github.com/shuence/AdventureSquad/blob/main/images/live%20demo.png)
+![Live Demo](https://github.com/shuence/TravelSquad/blob/main/images/live%20demo.png)
 
 ## Deployment
 
